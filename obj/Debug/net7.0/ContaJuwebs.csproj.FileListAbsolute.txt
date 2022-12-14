@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\bin\Debug\net7.0\ContaJuwebs.exe
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\bin\Debug\net7.0\ContaJuwebs.deps.json
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\bin\Debug\net7.0\ContaJuwebs.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\bin\Debug\net7.0\ContaJuwebs.dll
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\bin\Debug\net7.0\ContaJuwebs.pdb
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.dll
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\refint\ContaJuwebs.dll
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.pdb
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ContaJuwebs.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\ContaJuwebs\obj\Debug\net7.0\ref\ContaJuwebs.dll
